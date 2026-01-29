@@ -1,8 +1,8 @@
 # Employee Management System
 
 ## Overview
-
-This is a comprehensive ASP.NET Core Web API project demonstrating enterprise-level unit testing practices and architecture patterns. The solution manages employee information, including internal employees, external employees, employee promotions, and company statistics.
+the name suggested by github 😂
+Basicaly this is an ASP.NET Core Web API project demonstrating enterprise-level unit testing practices and architecture patterns. The solution manages employee information, including internal employees, external employees, employee promotions, and company statistics.
 
 ## Project Structure
 
